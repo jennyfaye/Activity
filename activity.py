@@ -1,6 +1,6 @@
 name = "Taylor"
 age = 17
-favSong = "Neverending Story"
+favSong = "Love Story"
  
 print(name)
 print(age)
